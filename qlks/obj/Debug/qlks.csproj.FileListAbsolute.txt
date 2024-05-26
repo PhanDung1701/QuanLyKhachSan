@@ -1,0 +1,192 @@
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\qlks.exe.config
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\qlks.exe
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\qlks.pdb
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.AssemblyReference.cache
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.SuggestedBindingRedirects.cache
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.Properties.Resources.resources
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.GenerateResource.cache
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.exe.licenses
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.CoreCompileInputs.cache
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.CopyComplete
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.exe
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.pdb
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.HomeForm.resources
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\Guna.UI2.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\MetroFramework.Design.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\MetroFramework.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\MetroFramework.Fonts.dll
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLPhong.resources
+D:\coder cua hoang\code\C#\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.ThuePhong.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.AssemblyReference.cache
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.ChonDichVu.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.HomeForm.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.Login.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLDichvu.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLKhachhang.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLloaiphong.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLNhanvien.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLPhong.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QLThueohong.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.Laphoadon.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.TraPhong.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.GenerateResource.cache
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.Properties.Resources.resources
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.exe.licenses
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.CoreCompileInputs.cache
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\qlks.exe.config
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\qlks.exe
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\qlks.pdb
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Diagram.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.SpellChecker.v23.1.Core.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraDiagram.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraSpellChecker.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\Guna.UI2.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\MetroFramework.Design.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\MetroFramework.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\SunnyUI.Common.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\SunnyUI.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Diagram.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.SpellChecker.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraDiagram.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraSpellChecker.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.csproj.CopyComplete
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.exe
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.pdb
+C:\Users\VKDUY\Downloads\Quan-ly-khach-san\qlks\qlks\obj\Debug\qlks.QuenMatKhau.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\qlks.exe.config
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\qlks.exe
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\qlks.pdb
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\Guna.UI2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\MetroFramework.Design.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\MetroFramework.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\SunnyUI.Common.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\SunnyUI.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.csproj.AssemblyReference.cache
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.ChonDichVu.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.HomeForm.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.Login.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.Properties.Resources.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QLDichvu.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QLKhachhang.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QLloaiphong.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QLNhanvien.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QLPhong.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QLThueohong.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.Laphoadon.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.QuenMatKhau.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.TraPhong.resources
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.csproj.GenerateResource.cache
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.exe.licenses
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.csproj.CoreCompileInputs.cache
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.csproj.Up2Date
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.exe
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\obj\Debug\qlks.pdb
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.SpellChecker.v23.2.Core.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraSpellChecker.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.SpellChecker.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraSpellChecker.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\PC-Dung\Downloads\Quan-ly-khach-san-main\Quan-ly-khach-san-main\qlks\qlks\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
